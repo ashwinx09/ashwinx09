@@ -35,3 +35,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=sql)
+  [![IBM SPSS](https://img.shields.io/badge/-IBM%20SPSS-333333?style=for-the-badge&logo=ibm)](https://www.ibm.com/analytics/spss-statistics-software)
