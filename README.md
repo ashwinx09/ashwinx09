@@ -14,10 +14,8 @@
 ✨Strong debugging skills
         <br>
 ✨Always curious and eager to learn new things</pre></h4>
-<br>
 <h2> ⭐️SERVICES:</h2>
 <h4>🔹Data Analysis 🔹Statistical Analysis 🔹Data Scrapping 🔹Data Visualization 🔹GUI Development 🔹Data Base Management System 🔹Dashboards </h4>
-<br>
 <h2>⭐️TECHNOLOGIES:<h2/>
         
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
