@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e" alt="Blue Modern Gradient Technology LinkedIn Banner" width="700"/>
+  <img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e" alt="Blue Modern Gradient Technology LinkedIn Banner" width="900"/>
 </div>
 
 
 
-## ✨Hi there, Welcome to my GitHub✨
+## ⭐️ABOUT ME 
 <h4>✨Bachelor of Science in Mathematics
         <br>
 ✨Strong foundation in Probability & Statistics
