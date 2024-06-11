@@ -1,3 +1,7 @@
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e)
+
+
+
 ## ✨Hi there, Welcome to my GitHub✨
 <h4>✨Bachelor of Science in Mathematics
         <br>
