@@ -3,11 +3,12 @@
 </div>
 
 ## ⭐️ABOUT ME 
-<h4> I'm a BS in Mathematics with a good hold in probability and statistics. I possess expertise in Python language, object-oriented programming principles, and various python libraries. Also have knowledge of many other technologies related to the data field. Plus have soft skills like analytical thinking, comminucation, problem-solving, teamwork and a curiosity to learn new things.<br> <br>My primary focus lies in Descriptive, Diagnostic, Predictive, and Prescriptive Analytics, alongside thorough Exploratory Data Analysis (EDA). Leveraging these methodologies, I strive to extract actionable insights from complex datasets, employing statistical techniques. By customizing my approach to suit the unique characteristics of each dataset, I aim to deliver professional and data-driven solutions.</h4><br>
+<h4> I'm a BS in Mathematics with a good hold in probability and statistics. I possess expertise in Python language, object-oriented programming principles, and various python libraries. Also have knowledge of many other technologies related to the data field. Plus have soft skills like analytical thinking, comminucation, problem-solving, teamwork and a curiosity to learn new things.<br> <br>My primary focus lies in Descriptive, Diagnostic, Predictive, and Prescriptive Analytics, alongside thorough Exploratory Data Analysis (EDA). Leveraging these methodologies, I strive to extract actionable insights from complex datasets, employing statistical techniques. By customizing my approach to suit the unique characteristics of each dataset, I aim to deliver professional and data-driven solutions.</h4>
 
-<h2> ⭐️SERVICES</h2>
-<h4>✨Data Analysis ✨Statistical Analysis ✨Data Scrapping ✨Data Visualization ✨Graphics User Development ✨Data Base Management System ✨Dashboards </h4><br>
-<h2>⭐️TECHNOLOGIES:<h2/>
+## ⭐️SERVICES
+<h4>✨Data Analysis ✨Statistical Analysis ✨Data Scrapping ✨Data Visualization ✨Graphics User Development ✨Data Base Management System ✨Dashboards </h4>
+
+## ⭐️TECHNOLOGIES & TOOLS
         
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
