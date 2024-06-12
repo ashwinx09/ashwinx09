@@ -8,7 +8,7 @@
 <h2>⭐️SKILLS</h2>
 <p>✨Statistical Analysis  ✨Data Scrapping  ✨Data Visualization  ✨Graphics User Development  ✨Database Management  ✨Dashboards </p>
 
-<h2>⭐️TECHNOLOGIES & TOOLS </h2>
+<h2>⭐️TECHNOLOGIES </h2>
         
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
