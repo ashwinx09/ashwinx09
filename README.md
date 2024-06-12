@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/5ef88e90-a001-4078-9cd7-b33f243feb99" alt="Blue Modern Gradient Technology LinkedIn Banner" width="900" >
+<img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/c3d0123b-ccd4-45eb-a38a-9ca8dd86a619" alt="Blue Modern Gradient Technology LinkedIn Banner" width="1000">
 </div>
 
 # ⭐️ABOUT ME : 
