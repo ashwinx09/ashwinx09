@@ -5,7 +5,7 @@
 <p> I'm a BS in Mathematics with a good hold in probability and statistics. I possess expertise in Python language and object-oriented programming principles, and various python libraries. Also have knowledge of many other technologies related to the data analytics's field. Plus have soft skills like analytical thinking, comminucation, problem-solving, teamwork and a curiosity to learn new things. My primary focus lies in Descriptive, Diagnostic, Predictive, and Prescriptive Analytics, alongside thorough Exploratory Data Analysis (EDA). Leveraging these methodologies, I strive to extract actionable insights from complex datasets, employing statistical techniques. By customizing my approach to suit the unique characteristics of each dataset, i aim to deliver professional and data-driven solutions.</p>
 
  <h2> ⭐️Skills : </h2>
-✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Visualization  ✨Graphics User Development  ✨Data Base Management System  ✨Dashboards 
+✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Visualization  ✨Graphics User Development  ✨Data Base Management System  ✨Dashboards 
 
 <h2>⭐️Tech Stack :</h2>
 
