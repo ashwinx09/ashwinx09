@@ -1,14 +1,11 @@
 <div align="center">
-<img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e" alt="Blue Modern Gradient Technology LinkedIn Banner" width="900" height="150" >
-</div>
+<img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e" alt="Blue Modern Gradient Technology LinkedIn Banner" width="900" height="150"></div>
 
 <h2> ⭐️About me : </h2>
-
 <p> I'm a BS in Mathematics with a good hold in probability and statistics. I possess expertise in Python language and object-oriented programming principles, and various python libraries. Also have knowledge of many other technologies related to the data analytics's field. Plus have soft skills like analytical thinking, comminucation, problem-solving, teamwork and a curiosity to learn new things. My primary focus lies in Descriptive, Diagnostic, Predictive, and Prescriptive Analytics, alongside thorough Exploratory Data Analysis (EDA). Leveraging these methodologies, I strive to extract actionable insights from complex datasets, employing statistical techniques. By customizing my approach to suit the unique characteristics of each dataset, i aim to deliver professional and data-driven solutions.</p>
 
-# <h2> ⭐️Skills : </h2>
-
-<p>✨Statistical Analysis  ✨Data Scrapping  ✨Data Visualization  ✨Graphics User Development  ✨Database Management  ✨Dashboards </p>
+ <h2> ⭐️Skills : </h2>
+✨Statistical Analysis  ✨Data Scrapping  ✨Data Visualization  ✨Graphics User Development  ✨Database Management  ✨Dashboards 
 
 <h2>⭐️Tech Stack :</h2>
 
