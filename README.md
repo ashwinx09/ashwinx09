@@ -2,7 +2,7 @@
 <img src="https://github.com/ashwinx09/ashwinx09/assets/171764710/cc43c5dd-1e5a-489b-ae2e-00177680ce4e" alt="Blue Modern Gradient Technology LinkedIn Banner" width="900" height="160"></div> -->
 
 <h2> ⭐️ About Me : </h2>
-<p> I hold a Bachelor of Science in Mathematics with a strong foundation in statistics. I am proficient in Java and Python programming languages, with expertise in object-oriented programming principles and various libraries. My knowledge extends to numerous technologies related to the field of data analytics. Additionally, I have completed coursework in Data Structures and Algorithms in Java. 
+<p> I hold a BS in Mathematics with a strong foundation in statistics. I am proficient in Java and Python programming languages, with expertise in object-oriented programming principles and various libraries. My knowledge extends to numerous technologies related to the field of data analytics. Additionally, I have completed coursework in Data Structures and Algorithms in Java. 
 
 I possess good knowlegde in database management, encompassing the design, implementation, and maintenance of robust database systems. With a understanding of relational database concepts, I have worked extensively with SQL for querying and managing data efficiently. Additionally, I have developed soft skills in analytical thinking, effective communication, problem-solving, teamwork, and a curiosity and eagerness to learn. 
 
