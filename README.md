@@ -7,7 +7,7 @@
 I possess good knowlegde in database management, encompassing the design, implementation, and maintenance of robust database systems. With a understanding of relational database concepts, I have worked extensively with SQL for querying and managing data efficiently. </p>
 
  <h2> ⭐️SKILLS : </h2>
-✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Visualization  ✨Graphics User Development  ✨DataBase Management System  ✨Dashboards ✨ Extract Transform Load ✨ Problem-Solving
+✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Visualization  ✨Data Base Management System  ✨ Extract Transform Load  ✨Dashboards 
 
 <h2>⭐️TECH STACK:</h2>
 <div align="left">
