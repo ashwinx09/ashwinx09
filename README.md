@@ -1,4 +1,4 @@
-<pre><h1>                 ✨ WELCOME TO MY GITHUB !!✨ </h1></pre>
+<pre><h1>                 ✨ WELCOME TO MY GITHUB !! ✨ </h1></pre>
 
 
 
@@ -25,5 +25,3 @@ My primary focus lies in Descriptive, Diagnostic, Predictive, and Prescriptive A
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
