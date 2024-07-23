@@ -5,7 +5,7 @@
 In addition to my programming capabilities, I have completed coursework in Data Structures and Algorithms in Java, further enhancing my problem-solving skills. My knowledge of database management includes the design, implementation, and maintenance of robust database systems, with a strong understanding of relational database concepts. I have worked extensively with SQL for efficient data querying and management. </p>
 
  <h2> ⭐️SKILLS : </h2>
-✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Visualization  ✨Data Base Management System  ✨ Extract Transform Load  ✨Dashboards 
+✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining <br> ✨Data Visualization  ✨Data Base Management System  ✨ Extract Transform Load  ✨Dashboards 
 
 <h2>⭐️TECH STACK:</h2>
 <div align="left">
