@@ -1,8 +1,5 @@
 <pre><h1>                 ✨ WELCOME TO MY GITHUB !! ✨ </h1></pre>
 
-
-
-<h2> ⭐️ABOUT ME : </h2>
 <p> I hold a BS in Mathematics with a strong foundation in statistics. I am proficient in Java and Python programming languages, with expertise in object-oriented programming principles and various libraries. My knowledge extends to numerous technologies related to the field of data analytics. Additionally, I have completed coursework in Data Structures and Algorithms in Java. 
 I possess good knowlegde in database management, encompassing the design, implementation, and maintenance of robust database systems. With a understanding of relational database concepts, I have worked extensively with SQL for querying and managing data efficiently. </p>
 
