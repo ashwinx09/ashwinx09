@@ -1,8 +1,6 @@
 <pre><h1>                 ✨ WELCOME TO MY GITHUB !! ✨ </h1></pre>
 
-<p>I hold a Bachelor of Science in Mathematics with a solid foundation in descriptive and inferential statistics, as well as probability theory. I am proficient in both Java and Python programming languages, with expertise in object-oriented programming principles and a variety of relevant libraries. My technical skills extend to numerous technologies within the field of data analytics.
-
-In addition to my programming capabilities, I have completed coursework in Data Structures and Algorithms in Java, further enhancing my problem-solving skills. My knowledge of database management includes the design, implementation, and maintenance of robust database systems, with a strong understanding of relational database concepts. I have worked extensively with SQL for efficient data querying and management. </p>
+<p>As a Data Analyst holding a Bachelor of Science in Mathematics, I possess a robust foundation in statistics and probability. I specialize in data and statistical analysis, adept at transforming complex data sets into actionable insights. My expertise extends to effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.</p>
 
  <h2> ⭐️SKILLS : </h2>
 ✨Data Analysis ✨Statistical Analysis  ✨Data Scrapping ✨Data Modeling ✨Data Wrangling ✨Data Mining <br> ✨Data Visualization  ✨Data Base Management System  ✨ Extract Transform Load  ✨Dashboards 
