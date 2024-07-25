@@ -1,12 +1,12 @@
 ![GH](https://github.com/user-attachments/assets/48016b99-e2ab-4355-bcf4-093cd51a7d9e)
-## ⭐️DESCRIPTION
+## ⭐️ DESCRIPTION
 
 <p>As a Data Analyst holding a Bachelor of Science in Mathematics, I possess a robust foundation in statistics and probability. I specialize in data and statistical analysis, adept at transforming complex data sets into actionable insights. My expertise extends to effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.</p>
 
-## ⭐️SKILL-SET
+## ⭐️ SKILL-SET
 ✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Scrapping ✨Data Visualization  ✨Data Base Management System
 
-## ⭐️TECH STACK
+## ⭐️ TECH STACK
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
