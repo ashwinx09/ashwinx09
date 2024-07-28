@@ -1,6 +1,5 @@
 ![img2](https://github.com/user-attachments/assets/f8f4fb65-be1a-47b7-8885-ef42c1ab72cf)
 ## ⭐️ DESCRIPTION
-
 <p> As a Data Analyst with a BS in Mathematics, I possess a robust foundation in Statistics and Probability. My expertise spans Data Querying, Data Modeling, Data Wrangling, Data Mining, and Data Visualization. I excel at transforming complex data sets into actionable insights and effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.
 <br>
 <br>
