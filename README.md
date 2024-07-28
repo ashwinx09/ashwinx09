@@ -1,18 +1,18 @@
 ![img2](https://github.com/user-attachments/assets/f8f4fb65-be1a-47b7-8885-ef42c1ab72cf)
-### ⭐️ DESCRIPTION
+## ⭐️ DESCRIPTION
 
 <p> As a Data Analyst with a BS in Mathematics, I possess a robust foundation in Statistics and Probability. My expertise spans Data Querying, Data Modeling, Data Wrangling, Data Mining, and Data Visualization. I excel at transforming complex data sets into actionable insights and effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.
 <br>
 <br>
-My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.
-</p>
+My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.</p>
+<br>
 
-
-### ⭐️ SKILL-SET
+## ⭐️ SKILL-SET
 ✨Exploratory Data Analysis ✨Statistical Analysis ✨Diagnostic Analysis ✨Predictive Analysis ✨Machine Learning
+<br>
+<br>
 
-
-### ⭐️ TECH STACK
+## ⭐️ TECH STACK
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
     <img width="8" />
