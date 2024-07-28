@@ -7,19 +7,21 @@
 My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.
 </p>
 
+
 ## ⭐️ SKILL-SET
 ✨Exploratory Data Analysis ✨Statistical Analysis ✨Diagnostic Analysis ✨Predictive Analysis ✨Machine Learning
+
 
 ## ⭐️ TECH STACK
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="8" />
+    <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="8" />
+    <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="8" />
+    <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="8" />
+    <img width="8" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="30" alt="Pandas logo" />
     <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
