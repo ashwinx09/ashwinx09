@@ -1,10 +1,14 @@
 ![GH](https://github.com/user-attachments/assets/48016b99-e2ab-4355-bcf4-093cd51a7d9e)
 ## ⭐️ DESCRIPTION
 
-<p>As a Data Analyst i have BS in Mathematics and possess a robust foundation in statistics and probability. I specialize in data and statistical analysis, adept at transforming complex data sets into actionable insights. My expertise extends to effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.</p>
+<p> As a Data Analyst with a BS in Mathematics, I possess a robust foundation in Statistics and Probability. My expertise spans Data Querying, Data Modeling, Data Wrangling, Data Mining, and Data Visualization. I excel at transforming complex data sets into actionable insights and effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities.
+<br>
+<br>
+My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.
+</p>
 
 ## ⭐️ SKILL-SET
-✨Data Modeling ✨Data Wrangling ✨Data Mining ✨Data Scrapping ✨Data Visualization  ✨Data Base Management System
+✨Exploratory Data Analysis ✨Statistical Analysis ✨Diagnostic Analysis ✨Predictive Analysis ✨Machine Learning
 
 ## ⭐️ TECH STACK
 <div align="left">
