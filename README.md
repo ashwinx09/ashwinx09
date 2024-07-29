@@ -3,12 +3,10 @@
 <p> As a Data Analyst with a BS in Mathematics, I possess a robust foundation in Statistics and Probability. My expertise spans Data Querying, Data Modeling, Data Wrangling, Data Mining, and Data Visualization. I excel at transforming complex data sets into actionable insights and effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities. <br> 
 <br>
 My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.</p>
-<br>
+
 
 ## ⭐️ Skills
 ✨Exploratory Data Analysis ✨Statistical Analysis ✨Diagnostic Analysis ✨Predictive Analysis ✨Machine Learning
-<br>
-<br>
 
 ## ⭐️ Stack
 <div align="left">
