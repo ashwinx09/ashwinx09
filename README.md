@@ -14,6 +14,10 @@ Also, I specialize in creating clear presentations, conducting thorough research
 
 <br>
 
+✨ **Data Collection ✨ Data Wrangling ✨ Data Analysis ✨ Research ✨ Report Writing ✨ Documentation ✨ Manuals ✨ Presentation**
+
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="8" />
