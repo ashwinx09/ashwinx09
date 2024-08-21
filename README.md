@@ -12,7 +12,7 @@ I'm a BS in Mathematics with a strong foundation in Statistics and Probability. 
 
 Also, I specialize in creating clear presentations, conducting thorough research, and writing detailed reports. I excel in documenting processes, developing user-friendly manuals and guides, and collecting and analyzing data. My focus is on making complex information easy to understand and ensuring all materials are accurate, organized, and tailored to the audience.
 
----
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -46,6 +46,3 @@ Also, I specialize in creating clear presentations, conducting thorough research
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
     <img width="8" />
 </div>
-
----
-
