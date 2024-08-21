@@ -1,8 +1,47 @@
-![img2](https://github.com/user-attachments/assets/f8f4fb65-be1a-47b7-8885-ef42c1ab72cf)
-## ⭐️ Description
-<p> As a Data Analyst with a BS in Mathematics, I possess a robust foundation in Statistics and Probability. My expertise spans Data Querying, Data Modeling, Data Wrangling, Data Mining, and Data Visualization. I excel at transforming complex data sets into actionable insights and effectively communicating findings to diverse audiences. Additionally, my proficiency in various data analytics technologies significantly enhances my problem-solving capabilities. <br> 
-<br>
-My capabilities extend to the development and fine-tuning of machine learning models using various ML libraries, followed by rigorous evaluation to ensure robustness and accuracy. I excel in deploying scalable solutions that integrate seamlessly into existing infrastructures, ensuring efficiency. Additionally, I leverage advanced data preprocessing and feature engineering techniques to enhance model performance and interpretability.</p>
+
+- Parrots
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+<br><br>
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />Welcome Here !  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+I'm a Research Associate with a BS in Mathematics, I possess a robust foundation in Statistics and Probability, along with extensive expertise in Data Mining, Querying, Wrangling, Modeling, and Visualization. I excel at transforming complex datasets into actionable insights and effectively communicating findings to diverse audiences. My proficiency in various data analytics technologies enhances my problem-solving abilities, enabling the development and fine-tuning of machine learning models with rigorous evaluation to ensure robustness and accuracy. Additionally, I am adept at deploying scalable solutions that integrate seamlessly into existing infrastructures, leveraging advanced data preprocessing and feature engineering techniques to optimize model performance and interpretability.
+
+
+
+![Animated GIF](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
+
+
+
+
+
+
+
 
 
 ## ⭐️ Skills
