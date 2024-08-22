@@ -7,13 +7,13 @@
 
 </div>
 
-I'm a BS in Mathematics with a strong foundation in Statistics and Probability. My expertise spans Data Mining, Querying, Wrangling, Modeling, and Visualization, turning complex datasets into actionable insights. My skill set includes developing and fine-tuning machine learning models, ensuring robustness and accuracy through rigorous evaluation. I deploy scalable solutions, leveraging advanced data preprocessing and feature engineering techniques for optimal performance and interpretability. 
+I'm a BS in Mathematics with a strong foundation in Statistics and Probability. My expertise spans in descriptive and predictive analysis turning complex datasets into actionable insights. My skill set includes developing and fine-tuning machine learning models, ensuring robustness and accuracy through rigorous evaluation. I deploy scalable solutions, leveraging advanced data preprocessing and feature engineering techniques for optimal performance and interpretability. 
 
 Also, I specialize in creating clear presentations, conducting thorough research, and writing detailed reports. I excel in documenting processes, developing user-friendly manuals and guides, and collecting and analyzing data. My focus is on making complex information easy to understand and ensuring all materials are accurate, organized, and tailored to the audience.
 
 <br>
 
-✨**Data Collection ✨Data Querying ✨Data Wrangling ✨Data Analysis ✨Data Modeling ✨Research ✨Report Writing ✨Documentation ✨Manual & Guide ✨Presentation ✨Project Management**
+✨**Data Collection ✨Data Mining ✨Data Querying ✨Data Wrangling ✨Data Analysis ✨Data Modeling ✨Research ✨Report Writing ✨Documentation ✨Manual & Guide ✨Presentation ✨Project Management**
 
 <br>
 
