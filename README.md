@@ -13,7 +13,8 @@ Also, I specialize in creating clear presentations, conducting thorough research
 
 <br>
 
-**✨Data Mining ✨Data Querying ✨Data Wrangling ✨Data Analysis ✨Data Modeling ✨Research ✨Report Writing ✨Documentation ✨Manual & Guide ✨Presentation ✨Project Management  ✨Machine Learning**
+**✨Data Mining ✨Data Querying ✨Data Wrangling ✨Data Analysis ✨Data Modeling ✨Project Management** <br>
+**✨Report Writing ✨Documentation ✨Manual & Guide ✨Presentation ✨Research  ✨Machine Learning**
 
 <br>
 
