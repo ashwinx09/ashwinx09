@@ -7,7 +7,7 @@
 
 </div>
 
-I hold a BS in Mathematics with expertise in Statistics and Probability, and I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis—from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models, with a focus on ensuring robustness and accuracy through careful evaluation. In addition to my technical abilities, I have a talent for making complex information accessible. I specialize in crafting clear and compelling presentations, conducting thorough research, and writing detailed reports. 
+I hold a BS in Mathematics with expertise in Statistics and Probability, and I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis—from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I have a talent for making complex information accessible. I specialize in crafting clear and compelling presentations, conducting thorough research, and writing detailed reports. 
 
 <br>
 
