@@ -11,7 +11,7 @@ I hold a BS in Mathematics with expertise in Statistics and Probability, and I e
 
 <br>
 
-**✨Data Querying ✨Exploratory Data Analysis ✨Statistical Analysis ✨Machine Learning ✨Project Management**
+**✨Data Querying ✨Exploratory Data Analysis ✨Regression Analysis ✨Machine Learning ✨Project Management**
 
 <br>
 
