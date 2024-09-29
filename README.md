@@ -44,7 +44,22 @@ I hold a BS in Mathematics with expertise in Statistics and Probability, and I e
     <img width="8" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
     <img width="8" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
+    <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
     <img width="8" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
