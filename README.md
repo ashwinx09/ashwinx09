@@ -22,8 +22,6 @@ I hold a BS in Mathematics with expertise in Statistics and Probability, and I e
     <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-    <img width="7" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="Pandas logo" />
     <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
