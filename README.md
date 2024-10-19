@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60px" /> **Welome to my GitHub !!!** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60px" />
-
 | 🎓Data Analyst | 🎓Research Associate |
 |-------|--------|
 
@@ -11,7 +9,7 @@
       I hold a BS in Mathematics with expertise in Statistics and Probability. I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis—from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I specialize in making complex information accessible through clear presentations, thorough research, and detailed reports.
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="1500"/>
+      <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="1000"/>
     </td>
   </tr>
 </table>
@@ -54,6 +52,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
     <img width="7" />
 </div>
+
+
+
 
 
 
