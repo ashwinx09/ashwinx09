@@ -1,5 +1,3 @@
-<br>
-
 ### 🎓Data Analyst & Research Associate 
 
 <br>
