@@ -1,6 +1,8 @@
 | 🎓Data Analyst | 🎓Research Associate |
 |-------|--------|
 
+<br>
+
   <table>
   <tr>
     <td>
@@ -10,7 +12,9 @@ I hold a BS in Mathematics with expertise in Statistics and Probability. I excel
       <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="1000"/>
     </td>
   </tr>
-</table>                                                                                
+</table>  
+
+<br>
 
 **✨Data Querying ✨Exploratory Data Analysis ✨Regression Models ✨Research ✨Dashboards**
 
@@ -48,20 +52,3 @@ I hold a BS in Mathematics with expertise in Statistics and Probability. I excel
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
     <img width="7" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
