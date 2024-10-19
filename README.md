@@ -1,3 +1,5 @@
+<br>
+
 ### 🎓Data Analyst & Research Associate 
 
 <br>
@@ -51,3 +53,5 @@ I hold a BS in Mathematics with expertise in Statistics and Probability. I excel
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
     <img width="7" />
 </div>
+
+<br>
