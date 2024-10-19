@@ -4,21 +4,13 @@
   <table>
   <tr>
     <td>
-      I hold a BS in Mathematics with expertise in Statistics and Probability. I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I specialize in making complex information accessible through clear presentations, thorough research, and detailed reports.
+I hold a BS in Mathematics with expertise in Statistics and Probability. I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I specialize in making complex information accessible through clear presentations, thorough research, and detailed reports.
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="900"/>
+      <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="1000"/>
     </td>
   </tr>
 </table>                                                                                
-
-
-
-[Link Text](https://example.com)
-
-[Link Text](https://example.com)
-
-<br>
 
 **✨Data Querying ✨Exploratory Data Analysis ✨Regression Models ✨Research ✨Dashboards**
 
