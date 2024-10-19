@@ -5,14 +5,13 @@
 | 🎓Data Analyst | 🎓Research Associate |
 |-------|--------|
 
-</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
     I hold a BS in Mathematics with expertise in Statistics and Probability. I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis—from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I specialize in making complex information accessible through clear presentations, thorough research, and detailed reports.
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="google-advanced-data-analytics-certificate" width="300"/>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="300"/>
   </div>
 </div>
 
