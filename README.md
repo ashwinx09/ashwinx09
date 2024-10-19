@@ -1,9 +1,5 @@
 ### 🎓Data Analyst & Research Associate 
 
-> [Coursera Profile](https://www.coursera.org/learner/ashwin-singh-gusain-6820)
-
-> [Kaggle Profile](https://www.kaggle.com/stackashwin099)
-
 <br>
 
   <table>
