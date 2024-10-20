@@ -1,4 +1,4 @@
-### 🎓Data Analyst & Research Associate 
+## 🎓Data Analyst & Research Associate 
 
 <br>
 
